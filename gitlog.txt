@@ -1,0 +1,1 @@
+# git config --global credential.helper winstore // WinNT,https://gitcredentialstore.codeplex.com/,put in /git/usr/bin
